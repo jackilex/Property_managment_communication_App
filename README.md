@@ -27,3 +27,9 @@ The solution is to bring all users/resident in one channel were they are expecte
 - set remnders
 - send maintenance request
 etc.
+
+# Architecture
+
+[![serverles Architecture](link to image on GH)](https://drive.google.com/file/d/1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf/view)
+
+
