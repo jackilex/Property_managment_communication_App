@@ -1,3 +1,5 @@
+FYI: this repop doesn't include actual codes, please contact me if you would like to see my progress.
+
 # Property_managment_communication_App
 This repo is to showcase my progress while creating the app/service that will focus on Increasing better communication between property managers (community, apartments) and the clients they serve
 
