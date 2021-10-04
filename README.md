@@ -29,7 +29,10 @@ The solution is to bring all users/resident in one channel were they are expecte
 etc.
 
 # Architecture
-
+- the architecture will use:
+    - Gcloud serverless Functions (Node.js)
+    - the mobile app is beeing built using Flutter
+    - Database : MongoDb and Firestore
 <!-- ![serverles Architecture](https://drive.google.com/file/d/1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf/view?usp=sharing) -->
 ![serverless](./asset/serverlessArch.jpg)
 
