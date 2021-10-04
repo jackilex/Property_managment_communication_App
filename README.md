@@ -5,4 +5,4 @@ This repo is to showcase my progress while creating the app/service that will fo
 The PROPERTY MANAGER is totally accountable for all community operations. The purpose of the PROPERTY MANAGER is to effectively manage 
 and coordinate persons, activates,and available resources in order to accomplish community objectives as set forth by the Regional Property Manager and property owner.
 
-##IRAC
+## IRAC
