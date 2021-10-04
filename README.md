@@ -31,6 +31,6 @@ etc.
 # Architecture
 
 <!-- ![serverles Architecture](https://drive.google.com/file/d/1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf/view?usp=sharing) -->
-![serverless](https://drive.google.com/uc?export=view&id=1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf)
-![image](https://drive.google.com/uc?export=view&id=1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf)
+![serverless](serverlessArch.jpg)
+
 
