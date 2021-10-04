@@ -30,6 +30,6 @@ etc.
 
 # Architecture
 
-[![serverles Architecture](link to image on GH)](https://drive.google.com/file/d/1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf/view)
+![serverles Architecture](https://drive.google.com/file/d/1YtbQjgUXud5MqhH_tNme5Ww6YrZi5EKf/view)
 
 
