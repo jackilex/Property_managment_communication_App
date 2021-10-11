@@ -41,6 +41,18 @@ etc.
 ![serverless](./asset/serverlessArch.jpg)
 
 # UserFlow
+1) What/who is a user? a user using this app can either be a Manager or Resident, overall both users will have the smae userflow.
+- A User manager will have ectra permissions and multiple projects/residence to manage. 
+- A user resident will typically have one project/resident and limited perrmissions.
 
+2) User(s) objectives?
+- select a project (if user have more than one)
+- view project details and contact info
+- read announcments or events from project(s) channel
+- view and read Amenities details
+- submit maintenance request form or view request updates
+- view or set reminders
+
+## Diagram
 
 # Data Flow
