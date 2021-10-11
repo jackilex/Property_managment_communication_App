@@ -42,7 +42,7 @@ etc.
 
 # UserFlow
 1) What/who is a user? a user using this app can either be a Manager or Resident, overall both users will have the smae userflow.
-- A User manager will have extra permissions and multiple projects/residence to manage. 
+- A User manager will have extra permissions and multiple projects/residence to manage (RBAC + ABAC). 
 - A user resident will typically have one project/resident and limited perrmissions.
 
 2) User(s) objectives?
