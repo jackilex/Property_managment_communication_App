@@ -55,7 +55,7 @@ etc.
 - view or set reminders
 
 
-### Userflow - Diagram
+### Userflow - Diagram phase 1
 ![userFlow](./asset/userFlow_phase1.jpg)
 
 
