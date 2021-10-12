@@ -54,6 +54,9 @@ etc.
 - submit maintenance request form or view request updates
 - view or set reminders
 
+
 ### Userflow - Diagram
+![userFlow](./asset/userFlow_phase1.jpg)
+
 
 # Data Flow
